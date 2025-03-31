@@ -112,10 +112,6 @@ The AI-powered analysis code is located in:
 2. Paste a sample smart contract or use the provided example
 3. Start the audit to see a demonstration of the analysis capabilities
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - Hedera Hashgraph for the blockchain infrastructure

@@ -52,7 +52,7 @@ The AI-powered analysis code is located in:
 
 ## We have used HederaAgentKit and Hedera Eliza Plugin.
 
-**It is mentioned in the file content-1743400545979.md as part of the plugin repository: The plugin is designed to interact with the Hedera blockchain. It depends on the hedera-agent-kit library, which facilitates operations with the Hedera network.
+**It is mentioned in the file content-1743400545979.md as part of the plugin repository: The plugin is designed to interact with the Hedera blockchain. It depends on the hedera-agent-kit library, which facilitates operations with the Hedera network.**
 
 ## How It Works
 

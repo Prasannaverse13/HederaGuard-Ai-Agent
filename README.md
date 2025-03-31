@@ -2,7 +2,7 @@
 
 An advanced AI-powered smart contract auditing platform that combines cutting-edge technology with user-friendly design to enhance blockchain security and developer education. Built for the Hedera Hashgraph ecosystem.
 
-![HederaGuard AI Agent](generated-icon.png)
+
 
 ## Project Overview
 
@@ -49,6 +49,10 @@ The AI-powered analysis code is located in:
 
 - **Contract Account ID**: 0.0.5798618
 - **HashScan Link**: [Hedera Testnet Account](https://hashscan.io/testnet/account/0.0.5798618?ps=1&pr=1&pa=1&pf=1&ph=1&pt=1&pc=1&pn=1&p2=1&p3=1&p1=1&k1=1743431620.578161000)
+
+## We have used HederaAgentKit and Hedera Eliza Plugin.
+
+**It is mentioned in the file content-1743400545979.md as part of the plugin repository: The plugin is designed to interact with the Hedera blockchain. It depends on the hedera-agent-kit library, which facilitates operations with the Hedera network.
 
 ## How It Works
 

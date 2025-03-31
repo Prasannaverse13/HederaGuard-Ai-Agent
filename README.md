@@ -45,7 +45,7 @@ The AI-powered analysis code is located in:
 - `server/services/geminiService.ts` - Integration with Google's Gemini 2.0 Flash model
 - `client/src/hooks/useAudit.tsx` - React hook for frontend audit functionality
 
-## Hedera Account Information
+## Hedera Account Information(Smart contract deployment link)
 
 - **Contract Account ID**: 0.0.5798618
 - **HashScan Link**: [Hedera Testnet Account](https://hashscan.io/testnet/account/0.0.5798618?ps=1&pr=1&pa=1&pf=1&ph=1&pt=1&pc=1&pn=1&p2=1&p3=1&p1=1&k1=1743431620.578161000)
